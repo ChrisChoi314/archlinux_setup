@@ -1,2 +1,2 @@
 # archlinux_setup
-This repository contains files and folders related to the way my current archlinux system is set up, geared torwards my uses for research and my courses and projects. 
+This repository contains files and folders related to the way my current archlinux system is set up, geared torwards my uses for research and my courses and projects. The main motivation for creating this repo is because my laptop is starting to deteriorate (one of the hinges has broken) and I'm worried that it will go kaput one day. This is to at least salvage some of the commands and the setup of my old machine.  
